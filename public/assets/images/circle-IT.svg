@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_31204" data-name="Group 31204" transform="translate(-55 -452)">
+    <circle id="Ellipse_126" data-name="Ellipse 126" cx="25" cy="25" r="25" transform="translate(55 452)" fill="#00c885"/>
+    <g id="vuesax_outline_monitor" data-name="vuesax/outline/monitor" transform="translate(-360 277)">
+      <g id="monitor" transform="translate(428 188)">
+        <path id="Vector" d="M15.971,16.372H5.082C1.185,16.372,0,15.187,0,11.29V5.082C0,1.185,1.185,0,5.082,0H15.961c3.9,0,5.082,1.185,5.082,5.082v6.2C21.053,15.187,19.868,16.372,15.971,16.372ZM5.082,1.469c-3.075,0-3.613.539-3.613,3.613v6.2c0,3.075.539,3.613,3.613,3.613H15.961c3.075,0,3.613-.539,3.613-3.613v-6.2c0-3.075-.539-3.613-3.613-3.613Z" transform="translate(1.224 1.224)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M.734,6.149A.74.74,0,0,1,0,5.415V.734A.74.74,0,0,1,.734,0a.74.74,0,0,1,.734.734V5.415A.74.74,0,0,1,.734,6.149Z" transform="translate(11.016 16.127)" fill="#fff"/>
+        <path id="Vector-3" data-name="Vector" d="M20.318,1.469H.734A.74.74,0,0,1,0,.734.74.74,0,0,1,.734,0H20.318a.74.74,0,0,1,.734.734A.74.74,0,0,1,20.318,1.469Z" transform="translate(1.224 11.995)" fill="#fff"/>
+        <path id="Vector-4" data-name="Vector" d="M9.547,1.469H.734A.74.74,0,0,1,0,.734.74.74,0,0,1,.734,0H9.547a.74.74,0,0,1,.734.734A.74.74,0,0,1,9.547,1.469Z" transform="translate(6.61 20.808)" fill="#fff"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H23.5V23.5H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="arrow-right" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <rect id="vuesax_linear_arrow-right_Background_" data-name="vuesax/linear/arrow-right (Background)" width="16" height="16" fill="none"/>
+  <g id="vuesax_linear_arrow-right" data-name="vuesax/linear/arrow-right">
+    <g id="arrow-right-2" data-name="arrow-right">
+      <path id="Vector" d="M0,10.56,4.347,6.213a1.324,1.324,0,0,0,0-1.867L0,0" transform="translate(5.94 2.719)" fill="none" stroke="#2c2c2c" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M16,0V16H0V0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

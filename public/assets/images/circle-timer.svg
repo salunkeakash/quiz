@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_31248" data-name="Group 31248" transform="translate(-46 -174)">
+    <circle id="Ellipse_122" data-name="Ellipse 122" cx="25" cy="25" r="25" transform="translate(46 174)" fill="#da2128"/>
+    <g id="vuesax_outline_timer" data-name="vuesax/outline/timer" transform="translate(-179 -3)">
+      <g id="timer" transform="translate(236 188)">
+        <path id="Vector" d="M10.866,21.732A10.866,10.866,0,1,1,21.732,10.866,10.876,10.876,0,0,1,10.866,21.732Zm0-20.016a9.15,9.15,0,1,0,9.15,9.15A9.162,9.162,0,0,0,10.866,1.716Z" transform="translate(2.859 4.289)" fill="#fff"/>
+        <path id="Vector-2" data-name="Vector" d="M.858,7.435A.864.864,0,0,1,0,6.577V.858A.864.864,0,0,1,.858,0a.864.864,0,0,1,.858.858V6.577A.864.864,0,0,1,.858,7.435Z" transform="translate(12.867 8.292)" fill="#fff"/>
+        <path id="Vector-3" data-name="Vector" d="M7.72,1.716H.858A.864.864,0,0,1,0,.858.864.864,0,0,1,.858,0H7.72a.864.864,0,0,1,.858.858A.864.864,0,0,1,7.72,1.716Z" transform="translate(9.436 1.43)" fill="#fff"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0H27.451V27.451H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>
