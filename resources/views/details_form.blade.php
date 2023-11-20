@@ -40,9 +40,7 @@
                     </div>
                     <button class="blueBtn w-100 mt-4" type="submit">Proceed</button>
                 </form>
-                {{-- <a href="quiz.html">
-                    <button class="blueBtn w-100 mt-4">Proceed</button>
-                </a> --}}
+                <div id="toast-error" class="error"></div>
             </div>
         </section>
         <section class="bottomGraphic"></section>
@@ -63,6 +61,8 @@
                 },
                 phoneNum: {
                     required: true,
+                    minlength:10,
+                    number: true
                 },
                 checkbox_terms: {
                     required: true,
@@ -126,9 +126,13 @@
                 }).done(function(data) {
                     console.log(data);
                     if (data.status == 201) {
+
                         // console.log(data)
                         // $('#toasterror').toast('show');
-                        // document.getElementById("toast-error").innerHTML = data.msg;
+                        document.getElementById("toast-error").innerHTML = data.msg;
+                         setTimeout(() => {
+                            window.location = "/";
+                        }, 3000);
                         // // document.getElementById("modalHead").innerHTML = 'Error';
 
                     } else {

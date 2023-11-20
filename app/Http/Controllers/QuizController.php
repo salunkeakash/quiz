@@ -76,6 +76,13 @@ class QuizController extends Controller
 
         }else
         {
+
+            $Quiz = Quiz::where('workflow' , session()->get('gameflow'))->Where('sector_id',  session()->get('sector'))
+            ->get();
+            
+            if(count($user) == 0)
+        {
+
             session()->put('user', $user[0]->id);
             $quiz = new Quiz();
             $quiz->user_id = $user[0]->id;
@@ -89,6 +96,10 @@ class QuizController extends Controller
             session()->put('quiz', $quiz->id);
 
             return response()->json(['status' => 200, 'msg' => 'created']);
+        }else
+        {
+            return response()->json(['status' => 201, 'msg' => 'you have already attempted the quiz try different quiz']);
+        }
         }
 
 
